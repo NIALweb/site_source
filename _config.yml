@@ -15,11 +15,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes Forestry Starter"
+title                    : "Network of Idaho Academic Libraries (NIAL)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Network of Idaho Academic Libraries (NIAL)"
+description              : "The mission of the Network of Idaho Academic Libraries (NIAL) is to leverage the spirit of cooperation inherent in Idaho’s academic library community with the goal of strengthening the library services and resources offered by Idaho’s institutions of higher education. Formalizing collaboration among the academic librarians of Idaho allows for increased exchange of ideas, experiences, and knowledge among these academic professionals to promote projects and initiatives of mutual interest."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "NIAL"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
