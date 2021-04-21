@@ -10,7 +10,6 @@ excerpt: 'The mission of the Network of Idaho Academic Libraries (NIAL) is to le
 layouts_gallery: []
 last_modified_at: 
 toc: true
-published: false
 
 ---
 ## **Bylaws of the Network of Idaho Academic Libraries**
