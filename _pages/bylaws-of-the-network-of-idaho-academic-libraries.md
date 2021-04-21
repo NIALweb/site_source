@@ -1,6 +1,6 @@
 ---
 permalink: bylaws
-title: Bylaws of the Network of Idaho Academic Libraries
+title: Bylaws
 excerpt: 'The mission of the Network of Idaho Academic Libraries (NIAL) is to leverage
   the spirit of cooperation inherent in Idaho’s academic library community with the
   goal of strengthening the library services and resources offered by Idaho’s institutions
