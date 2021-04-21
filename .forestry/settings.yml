@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: bylaws
-  label: Bylaws
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -15,6 +11,9 @@ sections:
   label: Pages
   create: documents
   match: "*.md"
+- type: document
+  path: bylaws
+  label: Bylaws
 upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
